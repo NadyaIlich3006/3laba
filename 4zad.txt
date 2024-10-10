@@ -1,0 +1,4 @@
+@echo off
+set /p papka=fifi:
+set /p kop=kop:
+xcopy %papka% %kop% /S
